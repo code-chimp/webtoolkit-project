@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test toolkit v2" type="GoTestRunConfiguration" factoryName="Go Test">
+    <module name="toolkit-project" />
+    <working_directory value="$PROJECT_DIR$/webtoolkit/v2" />
+    <kind value="PACKAGE" />
+    <package value="github.com/code-chimp/webtoolkit/v2" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <framework value="gotest" />
+    <pattern value="." />
+    <method v="2" />
+  </configuration>
+</component>
