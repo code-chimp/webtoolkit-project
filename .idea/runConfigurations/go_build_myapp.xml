@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build myapp" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="toolkit-project" />
+    <working_directory value="$PROJECT_DIR$/app" />
+    <kind value="PACKAGE" />
+    <package value="myapp" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/app/main.go" />
+    <method v="2" />
+  </configuration>
+</component>

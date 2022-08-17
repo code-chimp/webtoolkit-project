@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build app-download" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="toolkit-project" />
+    <working_directory value="$PROJECT_DIR$/app-download" />
+    <kind value="PACKAGE" />
+    <package value="app-download" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/app-download/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
